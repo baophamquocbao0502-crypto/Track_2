@@ -18,7 +18,7 @@ nvidia-end2end-self-driving/
 ## 🚀 How to Run
 # 1. Install dependencies
 pip install -r requirements.txt
-# 2. Run server
+# 2. Run
 python drive.py
 # 3. Open Udacity Simulator → Autonomous Mode
 ## 📦 Model Download
