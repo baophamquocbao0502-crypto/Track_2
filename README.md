@@ -1,4 +1,4 @@
-# 🚗 NVIDIA End-to-End Self-Driving Car
+# 🚗End-to-End Self-Driving Car based on NVDIA Model Structure
 
 Train an NVIDIA CNN to autonomously drive a car by cloning 
 human driving behaviour — camera image as input, 
